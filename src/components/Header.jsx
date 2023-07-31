@@ -19,7 +19,7 @@ const Header = () => {
            <p> {cartItems.length}</p>
          </Link>
 
-         <Link to={""}>
+         <Link to={"https://github.com/whoisbunny/React-Redux-Cart.git"}>
            <AiFillGithub />
          </Link>
        </div>
