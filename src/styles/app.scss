@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bree+Serif&family=Poppins:wght@300;400;500;600&family=Roboto+Mono:wght@100&family=Roboto:ital,wght@0,100;0,300;0,500;0,700;1,100;1,300&family=Source+Code+Pro:wght@300&family=Unbounded:wght@200&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'roboto',sans-serif; ;
+    text-decoration: none;
+    box-sizing: border-box;
+
+
+}
+@import 'colors.scss';
+@import 'header.scss';
+@import 'home.scss';
+@import 'cart.scss';
+
+body{
+ background-color: $primary;   
+//  color: $tertiary;
+}  
